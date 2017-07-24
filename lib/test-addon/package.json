@@ -1,0 +1,13 @@
+{
+  "name": "test-addon",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-babel": "*",
+    "ember-cli-htmlbars": "*",
+    "ember-cli-sass": "*",
+    "ember-css-modules": "*",
+    "ember-css-modules-sass": "*"
+  }
+}
